@@ -698,3 +698,20 @@
 2026-06-12 16:16:18.278790 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
 2026-06-12 16:16:18.278937 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:0
 2026-06-12 16:16:18.280546 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
+2026-06-13 10:16:40.621093 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-06-13 10:16:40.621200 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:5
+2026-06-13 10:16:44.671014 - [DatabaseManager][update_table] - Updating table - BTCUSDT_15
+2026-06-13 10:16:44.671242 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:72
+2026-06-13 10:16:44.967626 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_15 table to csv
+2026-06-13 10:16:44.969903 - [DatabaseManager][update_table] - Updating table - BTCUSDT_60
+2026-06-13 10:16:44.969995 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:18
+2026-06-13 10:16:45.228856 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_60 table to csv
+2026-06-13 10:16:45.229565 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-06-13 10:16:45.229645 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:0
+2026-06-13 10:16:45.236609 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_240 table to csv
+2026-06-13 10:16:45.237065 - [DatabaseManager][update_table] - Updating table - BTCUSDT_D
+2026-06-13 10:16:45.237165 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:1
+2026-06-13 10:16:45.475641 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_D table to csv
+2026-06-13 10:16:45.476222 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
+2026-06-13 10:16:45.476356 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:0
+2026-06-13 10:16:45.478019 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
