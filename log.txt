@@ -715,3 +715,20 @@
 2026-06-13 10:16:45.476222 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
 2026-06-13 10:16:45.476356 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:0
 2026-06-13 10:16:45.478019 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
+2026-06-17 16:25:42.875162 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-06-17 16:25:42.875748 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:25
+2026-06-17 16:25:48.778103 - [DatabaseManager][update_table] - Updating table - BTCUSDT_15
+2026-06-17 16:25:48.805749 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:408
+2026-06-17 16:25:49.080287 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_15 table to csv
+2026-06-17 16:25:49.082695 - [DatabaseManager][update_table] - Updating table - BTCUSDT_60
+2026-06-17 16:25:49.082787 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:102
+2026-06-17 16:25:49.351515 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_60 table to csv
+2026-06-17 16:25:49.352359 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-06-17 16:25:49.352441 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:0
+2026-06-17 16:25:49.359430 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_240 table to csv
+2026-06-17 16:25:49.360074 - [DatabaseManager][update_table] - Updating table - BTCUSDT_D
+2026-06-17 16:25:49.360160 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:4
+2026-06-17 16:25:49.625909 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_D table to csv
+2026-06-17 16:25:49.626483 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
+2026-06-17 16:25:49.626621 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:1
+2026-06-17 16:25:49.866843 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
