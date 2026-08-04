@@ -817,3 +817,20 @@
 2026-07-22 18:13:53.344270 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
 2026-07-22 18:13:53.344397 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:1
 2026-07-22 18:13:53.505732 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
+2026-08-04 18:33:46.410229 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-08-04 18:33:46.410632 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:78
+2026-08-04 18:33:50.078251 - [DatabaseManager][update_table] - Updating table - BTCUSDT_15
+2026-08-04 18:33:50.106777 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:1250
+2026-08-04 18:33:50.454096 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_15 table to csv
+2026-08-04 18:33:50.456617 - [DatabaseManager][update_table] - Updating table - BTCUSDT_60
+2026-08-04 18:33:50.456695 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:312
+2026-08-04 18:33:50.763036 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_60 table to csv
+2026-08-04 18:33:50.763986 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-08-04 18:33:50.764059 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:0
+2026-08-04 18:33:50.771470 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_240 table to csv
+2026-08-04 18:33:50.771956 - [DatabaseManager][update_table] - Updating table - BTCUSDT_D
+2026-08-04 18:33:50.772024 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:13
+2026-08-04 18:33:50.936533 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_D table to csv
+2026-08-04 18:33:50.937004 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
+2026-08-04 18:33:50.937115 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:2
+2026-08-04 18:33:51.115830 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
