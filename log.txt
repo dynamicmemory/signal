@@ -970,3 +970,37 @@
 2026-09-01 18:38:43.426023 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
 2026-09-01 18:38:43.426166 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:1
 2026-09-01 18:38:43.589806 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
+2026-09-10 06:34:23.385434 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-09-10 06:34:23.385977 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:51
+2026-09-10 06:34:28.132253 - [DatabaseManager][update_table] - Updating table - BTCUSDT_15
+2026-09-10 06:34:28.161810 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:816
+2026-09-10 06:34:28.938973 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_15 table to csv
+2026-09-10 06:34:28.941983 - [DatabaseManager][update_table] - Updating table - BTCUSDT_60
+2026-09-10 06:34:28.942081 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:204
+2026-09-10 06:34:29.225044 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_60 table to csv
+2026-09-10 06:34:29.225987 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-09-10 06:34:29.226068 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:0
+2026-09-10 06:34:29.234880 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_240 table to csv
+2026-09-10 06:34:29.235374 - [DatabaseManager][update_table] - Updating table - BTCUSDT_D
+2026-09-10 06:34:29.235462 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:8
+2026-09-10 06:34:29.477635 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_D table to csv
+2026-09-10 06:34:29.478153 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
+2026-09-10 06:34:29.478272 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:1
+2026-09-10 06:34:29.746126 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
+2026-09-15 19:49:14.439300 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-09-15 19:49:14.439738 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:33
+2026-09-15 19:49:18.841079 - [DatabaseManager][update_table] - Updating table - BTCUSDT_15
+2026-09-15 19:49:18.847271 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:533
+2026-09-15 19:49:19.258489 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_15 table to csv
+2026-09-15 19:49:19.261839 - [DatabaseManager][update_table] - Updating table - BTCUSDT_60
+2026-09-15 19:49:19.261953 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:133
+2026-09-15 19:49:19.622842 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_60 table to csv
+2026-09-15 19:49:19.624053 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-09-15 19:49:19.624152 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:0
+2026-09-15 19:49:19.633515 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_240 table to csv
+2026-09-15 19:49:19.634344 - [DatabaseManager][update_table] - Updating table - BTCUSDT_D
+2026-09-15 19:49:19.634463 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:6
+2026-09-15 19:49:19.887783 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_D table to csv
+2026-09-15 19:49:19.888234 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
+2026-09-15 19:49:19.888341 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:1
+2026-09-15 19:49:20.142383 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
