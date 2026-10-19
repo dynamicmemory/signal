@@ -1089,3 +1089,20 @@
 2026-10-08 13:02:51.990917 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
 2026-10-08 13:02:51.991042 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:1
 2026-10-08 13:02:52.255994 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
+2026-10-19 10:25:30.562904 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-10-19 10:25:30.563407 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:66
+2026-10-19 10:25:34.762531 - [DatabaseManager][update_table] - Updating table - BTCUSDT_15
+2026-10-19 10:25:34.764249 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:1045
+2026-10-19 10:25:35.190962 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_15 table to csv
+2026-10-19 10:25:35.195920 - [DatabaseManager][update_table] - Updating table - BTCUSDT_60
+2026-10-19 10:25:35.196060 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:261
+2026-10-19 10:25:35.511873 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_60 table to csv
+2026-10-19 10:25:35.513456 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-10-19 10:25:35.513590 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:0
+2026-10-19 10:25:35.523531 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_240 table to csv
+2026-10-19 10:25:35.524268 - [DatabaseManager][update_table] - Updating table - BTCUSDT_D
+2026-10-19 10:25:35.524398 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:11
+2026-10-19 10:25:35.836146 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_D table to csv
+2026-10-19 10:25:35.836729 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
+2026-10-19 10:25:35.836862 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:2
+2026-10-19 10:25:36.141078 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
