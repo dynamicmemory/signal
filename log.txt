@@ -1140,3 +1140,20 @@
 2026-10-30 08:59:49.188139 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
 2026-10-30 08:59:49.188285 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:1
 2026-10-30 08:59:49.581854 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
+2026-11-09 11:52:44.834902 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-11-09 11:52:44.835427 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:61
+2026-11-09 11:52:48.787934 - [DatabaseManager][update_table] - Updating table - BTCUSDT_15
+2026-11-09 11:52:48.794217 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:972
+2026-11-09 11:52:49.173701 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_15 table to csv
+2026-11-09 11:52:49.177328 - [DatabaseManager][update_table] - Updating table - BTCUSDT_60
+2026-11-09 11:52:49.177447 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:243
+2026-11-09 11:52:49.522120 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_60 table to csv
+2026-11-09 11:52:49.523242 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-11-09 11:52:49.523337 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:0
+2026-11-09 11:52:49.533223 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_240 table to csv
+2026-11-09 11:52:49.533986 - [DatabaseManager][update_table] - Updating table - BTCUSDT_D
+2026-11-09 11:52:49.534099 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:11
+2026-11-09 11:52:49.760655 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_D table to csv
+2026-11-09 11:52:49.761203 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
+2026-11-09 11:52:49.761350 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:2
+2026-11-09 11:52:50.061254 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
