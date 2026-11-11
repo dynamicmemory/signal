@@ -1157,3 +1157,20 @@
 2026-11-09 11:52:49.761203 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
 2026-11-09 11:52:49.761350 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:2
 2026-11-09 11:52:50.061254 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
+2026-11-11 18:48:01.589562 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-11-11 18:48:01.589648 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:14
+2026-11-11 18:48:08.157500 - [DatabaseManager][update_table] - Updating table - BTCUSDT_15
+2026-11-11 18:48:08.157647 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:220
+2026-11-11 18:48:08.453562 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_15 table to csv
+2026-11-11 18:48:08.457008 - [DatabaseManager][update_table] - Updating table - BTCUSDT_60
+2026-11-11 18:48:08.457113 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:55
+2026-11-11 18:48:08.654365 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_60 table to csv
+2026-11-11 18:48:08.655502 - [DatabaseManager][update_table] - Updating table - BTCUSDT_240
+2026-11-11 18:48:08.655583 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:0
+2026-11-11 18:48:08.664751 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_240 table to csv
+2026-11-11 18:48:08.665387 - [DatabaseManager][update_table] - Updating table - BTCUSDT_D
+2026-11-11 18:48:08.665477 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:2
+2026-11-11 18:48:08.835383 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_D table to csv
+2026-11-11 18:48:08.835908 - [DatabaseManager][update_table] - Updating table - BTCUSDT_W
+2026-11-11 18:48:08.836021 - [DatabaseManager][calculate_missing_rows] - Number of candles to retreive:0
+2026-11-11 18:48:08.837666 - [DatabaseManager][export_csv] - Successfully exported BTCUSDT_W table to csv
